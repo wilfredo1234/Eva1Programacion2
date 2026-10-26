@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eva1Programacion2</string>
+    <string name="header_title">Restaurante Típico Chileno</string>
+    <string name="header_subtitle">Sistema de Comanda y Cuenta de Mesa</string>
+    <string name="nombre_pastel">Pastel de Choclo</string>
+    <string name="precio_pastel">Precio: $12.000</string>
+    <string name="subtotal_pastel_label">Subtotal Pastel:</string>
+    <string name="nombre_cazuela">Cazuela</string>
+    <string name="precio_cazuela">Precio: $10.000</string>
+    <string name="subtotal_cazuela_label">Subtotal Cazuela:</string>
+    <string name="switch_propina_text">Desea incluir propina opcional (10%)</string>
+    <string name="subtotal_comida_label">Subtotal Alimentos:</string>
+    <string name="propina_label">Propina (10%):</string>
+    <string name="total_final_label">TOTAL A PAGAR:</string>
+    <string name="monto_cero">$0</string>
+    <string name="hint_cantidad">0</string>
+</resources>
